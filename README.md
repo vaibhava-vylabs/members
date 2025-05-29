@@ -49,6 +49,7 @@ Updated in April, 2024
 - [Aalborg University](https://github.com/turing-knowledge-graphs/members/tree/main/Aalborg)
 - [Eindhoven University of Technology (TU/e)](https://github.com/turing-knowledge-graphs/members/tree/main/Eindhoven)
 - [Data ScienceTech Institute.](https://github.com/turing-knowledge-graphs/members/tree/main/DSTI)
+- [VyLabs]((https://github.com/turing-knowledge-graphs/members/tree/main/VyLabs)
 
 ---
 
